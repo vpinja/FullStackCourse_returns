@@ -1,0 +1,10 @@
+title Exercise 0.6
+
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note over palvelin:
+Palvelimelle lähetetään musitiinpano
+end note over 
+palvelin-->selain: JSON
+note over selain:
+Muistiinpano lisätty sivulle
+end note over 
